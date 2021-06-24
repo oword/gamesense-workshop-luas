@@ -1,4 +1,4 @@
-# gamesense-workshop-luas
+# gamesense.pub workshop lua dump
 **only releasing this due to the fact that they have been publicly released and spread**
 
 dumped luas from the gamesense.pub workshop
